@@ -1,0 +1,16 @@
+We are working for the time filter in YACS for these days.
+But there're still 2 main issues we could not handle.
+
+1. For the begin and end time of each section of course, we haven't find out how to read
+  out the specific number of time. The things we get now is only the whole course array,
+  which contain lots of session in it, and each session have several sections. The begin
+  time and end time of each section of the course is right in there, but we haven't found 
+  the way to get it. We may try to get it in the next course.
+
+2. And the front-end side, we're assign to make a pop-up box that let users choose the 
+  time they want. However, following by the tutorial on Google, we could not write out
+  the correct code. Now I've already create a button and some box inside(not sure about 
+  these boxes), but the page have no change when I click the button for some reason I
+  need to find out in next class.
+  
+  
